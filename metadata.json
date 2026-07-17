@@ -1,0 +1,6 @@
+{
+  "name": "Watchex",
+  "description": "Award-winning luxury watch website with stunning scroll animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
